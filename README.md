@@ -9,6 +9,7 @@ __NOTE:__ This project is being actively created and is really intended to be no
 ## Contents
 
 * __Configuration:__ Contains basic configuration files for addition or replacement (I.e. `.bash_aliases`)
+* __GitSetup:__ Notes on various things git
 * __GoLang:__ Covers getting started with the Go programming language
 * __Python:__ Covers getting started with the Python programming language
 
